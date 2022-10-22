@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SolutionByShoaib {
+public class SolutionByNirmal {
     /*
      * Problem- A positive number N is given to you and You need to check Whether a Number is Even or Odd.
      * Approach - Using bit manipulation

@@ -34,7 +34,7 @@ You are welcomed to contribute in the repository. For contributions in the repos
 
 The goal for the repository can be summarised as follows:-
 
-- Learn How to Use Git
+- Learn How to Use Git and Github
 - Learn How to Write Clean Code
 - Learn How to Solve Problems with Multiple Approaches
 - Learn to Understand Other's Code
@@ -149,6 +149,8 @@ The mentioned profiles and their respective tracks are only for Freshers.
 
 - AR/VR Developer
     - Problem Solving Skills
+    - DB knowledge
+    - OS knowledge
     - At least 2 Projects on AR/VR
 
 ### Important Links
